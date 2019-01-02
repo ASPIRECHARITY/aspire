@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/aspire_bg.qm</file>
+        <file alias="ca">locale/aspire_ca.qm</file>
+        <file alias="cs">locale/aspire_cs.qm</file>
+        <file alias="da">locale/aspire_da.qm</file>
+        <file alias="de">locale/aspire_de.qm</file>
+        <file alias="en">locale/aspire_en.qm</file>
+        <file alias="en_US">locale/aspire_en_US.qm</file>
+        <file alias="es">locale/aspire_es.qm</file>
+        <file alias="fi">locale/aspire_fi.qm</file>
+        <file alias="fr_FR">locale/aspire_fr_FR.qm</file>
+        <file alias="hr">locale/aspire_hr.qm</file>
+        <file alias="it">locale/aspire_it.qm</file>
+        <file alias="ja">locale/aspire_ja.qm</file>
+        <file alias="ko_KR">locale/aspire_ko_KR.qm</file>
+        <file alias="nl">locale/aspire_nl.qm</file>
+        <file alias="pl">locale/aspire_pl.qm</file>
+        <file alias="pt">locale/aspire_pt.qm</file>
+        <file alias="pt_BR">locale/aspire_pt_BR.qm</file>
+        <file alias="ro_RO">locale/aspire_ro_RO.qm</file>
+        <file alias="ru">locale/aspire_ru.qm</file>
+        <file alias="sk">locale/aspire_sk.qm</file>
+        <file alias="sv">locale/aspire_sv.qm</file>
+        <file alias="tr">locale/aspire_tr.qm</file>
+        <file alias="uk">locale/aspire_uk.qm</file>
+        <file alias="zh_CN">locale/aspire_zh_CN.qm</file>
+        <file alias="zh_TW">locale/aspire_zh_TW.qm</file>
+    </qresource>
+</RCC>
